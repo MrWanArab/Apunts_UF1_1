@@ -30,11 +30,11 @@
 ## Desarrollo de software
 \
 Fases Principales
- - [**Analisis**](https://github.com/MrWanArab/Apunts_UF1_1/README.md)
- - [**Diseño**](https://github.com/MrWanArab/Apunts_UF1_1/README.md)
- - [**Codificación**](https://github.com/MrWanArab/Apunts_UF1_1/README.md#codificaci%C3%B3n)
- - [**Pruebas**](https://github.com/MrWanArab/Apunts_UF1_1/README.md#pruebas)
- - [**Mantenimiento**](https://github.com/MrWanArab/Apunts_UF1_1/README.md#mantenimiento)
+ - [**Analisis**](https://github.com/MrWanArab/Apunts_UF1_1/blob/main/README.md#analisis)
+ - [**Diseño**](https://github.com/MrWanArab/Apunts_UF1_1/blob/main/README.md#dise%C3%B1o)
+ - [**Codificación**](https://github.com/MrWanArab/Apunts_UF1_1/blob/main/README.md#codificaci%C3%B3n)
+ - [**Pruebas**](https://github.com/MrWanArab/Apunts_UF1_1/blob/main/README.md#pruebas)
+ - [**Mantenimiento**](https://github.com/MrWanArab/Apunts_UF1_1/blob/main/README.md#mantenimiento)
 
 ### Analisis
 
