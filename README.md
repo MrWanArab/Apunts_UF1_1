@@ -30,11 +30,11 @@
 ## Desarrollo de software
 \
 Fases Principales
- - [**Analisis**](https://github.com/nulo-dev/Apuntes_M05/blob/main/UF1/Apuntes_1.md#analisis)
- - [**Diseño**](https://github.com/nulo-dev/Apuntes_M05/blob/main/UF1/Apuntes_1.md#dise%C3%B1o)
- - [**Codificación**](https://github.com/nulo-dev/Apuntes_M05/blob/main/UF1/Apuntes_1.md#codificaci%C3%B3n)
- - [**Pruebas**](https://github.com/nulo-dev/Apuntes_M05/blob/main/UF1/Apuntes_1.md#pruebas)
- - [**Mantenimiento**](https://github.com/nulo-dev/Apuntes_M05/blob/main/UF1/Apuntes_1.md#mantenimiento)
+ - [**Analisis**](https://github.com/MrWanArab/Apunts_UF1_1/README.md)
+ - [**Diseño**](https://github.com/MrWanArab/Apunts_UF1_1/README.md)
+ - [**Codificación**](https://github.com/MrWanArab/Apunts_UF1_1/README.md#codificaci%C3%B3n)
+ - [**Pruebas**](https://github.com/MrWanArab/Apunts_UF1_1/README.md#pruebas)
+ - [**Mantenimiento**](https://github.com/MrWanArab/Apunts_UF1_1/README.md#mantenimiento)
 
 ### Analisis
 
