@@ -7,9 +7,9 @@
 
 ## Tipos de Software
 
-  - **De sistema** (Sistema operativo, dirvers)
+  - **De sistema** (Sistema operativo, drivers)
   - **De aplicacion** (Suite ofimática, Navegador, Edición de imagen, ...)
-  - **De desarrollo** (Editores, compiladores, interpretes, ...)
+  - **De desarrollo** (Editores, Compiladores, Interpretes, ...)
 
 ## Relación Hardware-Software
 
