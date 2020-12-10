@@ -164,7 +164,7 @@ Para obtener un código binario ejecutable, tenemos 2 opciones:
   - Compilar
   - Interpretar
  
-#### Compliar
+#### Compilar
 
   Compilar significa que el código que escribimos, lo transformamos a un código
   que entienden las máquinas y de esta forma, obtener un programa ejecutable
